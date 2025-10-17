@@ -1,0 +1,7 @@
+@GestionHuacales_HostAddress = https://localhost:7229
+
+GET {{GestionHuacales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

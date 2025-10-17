@@ -1,0 +1,6 @@
+@GestionHuacales.Api9_HostAddress = http://localhost:5294
+
+GET {{GestionHuacales.Api9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
